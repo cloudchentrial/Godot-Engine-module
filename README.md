@@ -10,4 +10,7 @@
 ### networking in cocoscreator
 >https://github.com/SonarSystems/Cocos2d-x-Networking
 
+### C++ plugin
+>https://github.com/cocos2d/creator_to_cocos2dx
+
 ### author: 
