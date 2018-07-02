@@ -8,7 +8,8 @@
 > * http://www.cocos2d-x.org/docs/api-ref/  
 
 ### networking in cocoscreator
->https://github.com/SonarSystems/Cocos2d-x-Networking
+> * https://github.com/SonarSystems/Cocos2d-x-Networking
+> * https://github.com/cocos-creator/creator-docs/blob/master/en/scripting/network.md
 
 ### C++ plugin
 >https://github.com/cocos2d/creator_to_cocos2dx
